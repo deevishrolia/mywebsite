@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "darshna_vishrolia",
-    "currentPage": "Home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -42,7 +42,14 @@
     "versionPublish": "5.1.4"
   },
   "pages": {
-    "Home.html": {
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": []
+    },
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -94,13 +101,6 @@
           "_anchor": "header11-3"
         }
       ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "Page 1",
-        "order": 1
-      },
-      "components": []
     }
   }
 }
